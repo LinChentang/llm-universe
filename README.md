@@ -155,6 +155,10 @@ LLM 正逐步成为信息世界的新革命力量，其通过强大的自然语�
 
 - [毛雨-内容创作者](https://github.com/Myoungs )（后端开发工程师）
 - [娄天奥-内容创作者](https://github.com/lta155)（Datawhale鲸英助教-中国科学院大学研究生）
+- [康婧淇-内容创作者](https://github.com/jodie-kang)（DataWhale鲸英助教-东南大学研究生）
+- [左春生-内容创作者](https://github.com/LinChentang)（Datawhale成员）
+- [周乐员-内容创作者](https://github.com/lelezhou)（算法工程师）
+- [白雪城-内容创作者](https://github.com/JackBaixue)（Datawhale鲸鱼助教-沈阳理工大学研究生）
 - [崔腾松-项目支持者](https://github.com/2951121599)（Datawhale成员-奇想星球联合发起人）
 - [June-项目支持者](https://github.com/JuneYaooo)（Datawhale成员-奇想星球联合发起人）
 
